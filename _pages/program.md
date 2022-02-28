@@ -20,4 +20,4 @@ All times are in Central European Summer Time (CEST)
 |14:30 - 14:50 | models & features </br> (parallel sessions) | models & features </br> (parallel sessions) | Summary and closing |
 |14:50 - 15:10 | models & features </br> (parallel sessions) | models & features </br> (parallel sessions) |  |
 
-The final program will be available on this site by 5^th^ June.
+The final program will be available on this site by 5<sup>th</sup> June.
