@@ -3,7 +3,9 @@ permalink: /program/
 title: "Program"
 ---
 
-## Coming soon...
+## Program structure
+
+All times are in Central European Summer Time (CEST)
 
 |  | 22. June | 23. June | 24. June |
 |--------------------------|----------------------|--------------------------|----------------------|
