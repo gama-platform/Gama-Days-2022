@@ -23,7 +23,9 @@ At least one of the authors of each submission is required to register, attend, 
 
 ## Abstract
 
-Abstracts The official document style for Gama Days 2022 can be [downloaded here](). It is required for any submission.
+Abstracts 
+
+The official document style for Gama Days 2022 can be [downloaded here](). It is required for any submission.
 
 ## Submission process
 
