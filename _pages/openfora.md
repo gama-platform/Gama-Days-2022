@@ -15,6 +15,6 @@ GAMA developers will be available in booths, where they present cool, advanced o
 
 Our recommendation: scan through the list of presented features and plan ahead, where to go!
 
-## Podium discussion - Friday, 14:00-14:30
+## Panel discussion - Friday, 14:00-14:30
 
 The last Open Forum will be dedicated to a panel discussion about...  Panel members are: ...
