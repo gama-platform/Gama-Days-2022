@@ -3,9 +3,9 @@ permalink: /submissions/
 title: "Submissions"
 ---
 
-## Topic
+Building on last year's success, the GAMA Days 2022 is the 2^nd^ conference, where users and developers of the GAMA modeling and simulation platform will have an opportunity to meet, present their work, expose their difficulties, propose enhancements and, more generally, exchange and collaborate on exciting topics related to GAMA!
 
-GAMA Days 2022 seeks submissions of abstracts that
+GAMA Days 2022 seek submissions of abstracts that
 
 * present new features for GAMA
 * present models that use GAMA, and / or
@@ -13,24 +13,18 @@ GAMA Days 2022 seeks submissions of abstracts that
 
 At least one of the authors of each submission is required to register, attend, and present the demo/poster/paper at the conference. 
 
-## Important dates
+## Submit an abstract
 
-[Call for Abstracts]()
+Submit abstracts with 500 words max. until 10. May, 2022
 
-- Abstract submission deadline: 31. May, 2022
-- Notification of acceptance: 10. June, 2022
-- Conference: 22. - 24. June, 2022
+Abstracts need to be formatted according to the document style for Word or Latex: [download style templates](). Please make sure the abstract is formatted accordingly, before you start the submission. 
 
-## Abstract
-
-Abstracts 
-
-The official document style for Gama Days 2022 can be [downloaded here](). It is required for any submission.
-
-## Submission process
-
-The submission process will be done using EasyChair. The link is:
-
-[https://easychair.org/my/conference?conf=gamadays2022]()
+Submit formatted abstracts with EasyChairm via this link: [https://easychair.org/my/conference?conf=gamadays2022]()
 
 All accepted abstracts will be published on the [HAL open archive](https://hal.archives-ouvertes.fr/).
+
+## Important dates
+
+- Abstract submission deadline: 10. May, 2022
+- Notification of acceptance: 24. May, 2022
+- Conference: 22. - 24. June, 2022
