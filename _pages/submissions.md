@@ -20,7 +20,7 @@ At least one of the authors of each submission is required to register, attend, 
 
 Submit an abstract with 500 words max. to present a model or a new GAMA feature. Deadline: 10. May, 2022. 
 
-Indicate in your abstract, whether or not you want to additionally want to reserve a virtual booth for a demo of your model in a (live or recorded) presentation at the Open Forum "Demo booths" on Wednesday, 22. June.
+* Indicate in your abstract, whether you also want to reserve a virtual booth for a demo of your model in a (live or recorded) presentation at the Open Forum "Model exhibition" on Wednesday, 22. June.
 
 Abstracts need to be formatted according to the document style for Word or Latex: [download style templates](). Please make sure the abstract is formatted accordingly, before you start the submission. 
 
