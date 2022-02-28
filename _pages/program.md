@@ -19,3 +19,5 @@ All times are in Central European Summer Time (CEST)
 |14:00 - 14:30 | **Open Forum** </br> Help! Q&A | **Open Forum** </br> Meet the developers | **Open Forum** </br> Panel discussion |
 |14:30 - 14:50 | User models (parallel sessions) | User models (parallel sessions) | Summary and closing |
 |14:50 - 15:10 | User models (parallel sessions) | User models (parallel sessions) |  |
+
+The final program will be available on this site by 5^th^ June.
