@@ -7,7 +7,8 @@ title: "Open Fora"
 
 
 
-## Model Features
+## Users meet developers
+
 
 
 ## Podium discussion
