@@ -13,7 +13,7 @@ Agent-based modeling is nowadays becoming increasingly popular for the study of 
 
 The GAMA Days serve as a communication hub: it invites platform (or plug-in) developers to present their latest creations and it invites users to show how they use the platform. These exchanges will be an important step towards a better structuring of the GAMA community.
 
-With the aim of bringing together the GAMA community from across the world, we decided to organise the GAMA Days as an online event. A couple of dedicated tools and formats will make sure to have a conference feeling that is similar to an on-site event:
+With the aim of bringing together the GAMA community from across the world, we decided to organise the GAMA Days as an online event. A couple of dedicated tools and formats will facilitate communication and make sure to have a conference feeling that is similar to an on-site event:
 
 * The Wonder.me meeting platform allows for natural social interaction. Walk around in the virtual conference room to talk with people nearby, listen a plenary talk, share your model or join a discussion.
 * Keynote talks will set the stage and break the ice. Good stuff to talk about in the breaks.
