@@ -8,7 +8,7 @@ Building on last year's success, the GAMA Days 2022 is the 2<sup>nd</sup> confer
 GAMA Days 2022 seek submissions of abstracts that
 
 * presents a new **feature** for GAMA, or
-* presents a **model** that use GAMA.
+* presents a **model** that uses GAMA.
 
 Additionally, you can choose, whether you want to 
 
