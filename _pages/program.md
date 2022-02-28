@@ -16,7 +16,7 @@ All times are in Central European Summer Time (CEST)
 |12:40 - 13:00 | models, features, demos (parallel sessions) | models, features, demos (parallel sessions) | models, features, demos (parallel sessions)|
 |  | *Lunch break* | *Lunch break* | *Lunch break* |
 |  |  |  |  |
-|14:00 - 14:30 | **Open Forum** </br> Help! Q&A | **Open Forum** </br> Meet the developers | **Open Forum** </br> Panel discussion |
+|14:00 - 14:30 | **Open Forum** </br> Demo booths | **Open Forum** </br> Meet the developers | **Open Forum** </br> Panel discussion |
 |14:30 - 14:50 | models, features, demos (parallel sessions) | models, features, demos (parallel sessions) | Summary and closing |
 |14:50 - 15:10 | models, features, demos (parallel sessions) | models, features, demos (parallel sessions) |  |
 
