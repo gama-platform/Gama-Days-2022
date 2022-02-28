@@ -21,7 +21,11 @@ Abstracts need to be formatted according to the document style for Word or Latex
 
 Submit formatted abstracts with EasyChairm via this link: [https://easychair.org/my/conference?conf=gamadays2022]()
 
-All accepted abstracts will be published on the [HAL open archive](https://hal.archives-ouvertes.fr/).
+<!-- All accepted abstracts will be published on the [HAL open archive](https://hal.archives-ouvertes.fr/).-->
+
+## Paper submission to Special Issue
+
+All accepted abstracts are invited to submit a short or full paper to the Special Issue in the xxx Journal.
 
 ## Important dates
 
