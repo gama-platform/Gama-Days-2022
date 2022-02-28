@@ -3,23 +3,27 @@ permalink: /submissions/
 title: "Submissions"
 ---
 
-
 ## Topic
 
-GAMA days 2022 is the 2nd Conference where users and developers of the GAMA modeling and simulation platform will have an opportunity to meet, present their work, expose their difficulties, propose enhancements and, more generally, exchange and collaborate on exciting topics related to GAMA!
+GAMA Days 2022 seeks submissions of abstracts that
 
-GAMA Days 2022 seeks submissions of contributions presenting models or new features for GAMA. At least one of the authors of each submission is required to register, attend, and present the demo/poster/paper at the conference. 
+* present new features for GAMA
+* present models that use GAMA, and / or
+* demonstrate a GAMA model.
+
+At least one of the authors of each submission is required to register, attend, and present the demo/poster/paper at the conference. 
 
 ## Important dates
 
-- CFP: XXXX XX, 2022 ([can be downloaded here]())
-- Submission Deadline: XXXX XX, 2022
-- Notification of Acceptance: XXXX XX, 2022
-- Conference: XXXX XX, 2022
+[Call for Abstracts]()
 
-## Contribution style
+- Abstract submission deadline: 31. May, 2022
+- Notification of acceptance: 10. June, 2022
+- Conference: 22. - 24. June, 2022
 
-The official document style for Gama Days 2022 can be [downloaded here](). It is required for any submission.
+## Abstract
+
+Abstracts The official document style for Gama Days 2022 can be [downloaded here](). It is required for any submission.
 
 ## Submission process
 
