@@ -7,7 +7,7 @@ title: "Open Fora"
 
 
 
-## Meet a developer
+## Meet the developers
 
 
 
