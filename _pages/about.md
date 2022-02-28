@@ -3,16 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-After last year's success, we want to continue building the GAMA community. The GAMA Days 2022 is the second online conference that brings together GAMA users and GAMA developers. 
+After last year's success, we want to continue bringing together GAMA users and GAMA developers to build the GAMA community. The second "GAMA Days 2022" will be held as an online conference from 22-24 June 2022.  
 
 ## Scope of GAMA Days 2022
 
-The GAMA Days serve as a communication hub: it invites platform (or plug-in) developers to present their latest creations and it invites users to show how they use the platform. These exchanges will be an important step towards a better structuring of the GAMA community.
+The GAMA Days serve as a communication hub: it invites platform (or plug-in) developers to present their latest creations and it invites users to show how they use the platform. This exchange will be an important step towards a better structuring of the GAMA community.
 
-With the aim of bringing together the GAMA community from across the world, we decided to organise the GAMA Days as an online event. A couple of dedicated tools and formats will facilitate communication and make sure to have a conference feeling that is similar to an on-site event:
+With the aim of allowing participation from across the world, we decided to organise the GAMA Days as an online event. A couple of dedicated tools and formats will facilitate communication and make sure to have a conference feeling that is similar to an on-site event:
 
-* The Wonder.me meeting platform allows for natural social interaction. Walk around in the virtual conference room to talk with people nearby, listen a plenary talk, share your model or join a discussion.
-* Keynote talks will set the stage and break the ice. Good stuff to talk about in the breaks.
+* The Wonder.me meeting platform allows for natural social interaction. Walk around in the virtual conference room to talk with people nearby, listen to plenary talks, share your model or join a discussion.
+* Keynote talks will set the stage and break the ice. It will provide the food for thought to talk about in the breaks.
 * Virtual coffee breaks are a time dedicated for socialising.
 * Open Fora are designed in a way that users get into direct contact with developers, and vice versa.
 
