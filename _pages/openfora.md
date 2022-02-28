@@ -9,12 +9,12 @@ In addition to your presentation, you want to have the chance to show how your m
 
 Our recommendation: make your demonstration interactive and involve your audience into a discussion!
 
-## Meet the developers
+## Meet the developers - Thursday, 14:00-14:30
 
 GAMA developers will be available in booths, where they present cool, advanced or new features that they have developed. Participants can strall around and stop by a booth to get into direct contact with the developer. Feature presentations start every 10 minutes, so developers will repeat their presentations three times.
 
 Our recommendation: scan through the list of presented features and plan ahead, where to go!
 
-## Podium discussion
+## Podium discussion - Friday, 14:00-14:30
 
 The last Open Forum will be dedicated to a panel discussion about...  Panel members are: ...
