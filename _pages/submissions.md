@@ -7,9 +7,12 @@ Building on last year's success, the GAMA Days 2022 is the 2^nd^ conference, whe
 
 GAMA Days 2022 seek submissions of abstracts that
 
-* presents a new **feature** for GAMA
-* presents a **model** that use GAMA, and / or
-* presents a (live) **demo** of a GAMA feature or model.
+* presents a new **feature** for GAMA, or
+* presents a **model** that use GAMA.
+
+Additionally, you can choose, whether you want to 
+
+* give a (live) **demo** of a GAMA feature or model that you present in the conference.
 
 At least one of the authors of each submission is required to register, attend, and present at the conference. 
 
