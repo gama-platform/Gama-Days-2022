@@ -7,8 +7,8 @@ main:
     url: /submissions/
   - title: "Open fora"
     url: /openfora/
-  #- title: "Program"
-  #  url: /program/
+  - title: "Program"
+    url: /program/
   - title: "Registration"
     url: /registration/
   - title: "Committees"
