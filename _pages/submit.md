@@ -1,6 +1,6 @@
 ---
-permalink: /submissions/
-title: "Submissions"
+permalink: /submit/
+title: "Submit"
 ---
 
 Building on last year's success, the GAMA Days 2022 is the 2<sup>nd</sup> conference, where users and developers of the GAMA modeling and simulation platform will have an opportunity to meet, present their work, expose their difficulties, propose enhancements and, more generally, exchange and collaborate on exciting topics related to GAMA!
