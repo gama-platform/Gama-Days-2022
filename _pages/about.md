@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-After last year's success, we want to continue bringing together GAMA users and GAMA developers to build the GAMA community. The second "GAMA Days 2022" will be held as an online conference from 22-24 June 2022. The event will be hosted by ... and [Z_GIS (Dept. of Geoinformatics, University of Salzburg)](https://www.plus.ac.at/geoinformatik/?lang=en){:target="_blank"}.
+After last year's success, we want to continue bringing together GAMA users and GAMA developers to build the GAMA community. The second "GAMA Days 2022" will be held as an online conference from 22-24 June 2022. The event will be hosted by [UMMISCO](https://www.ummisco.fr/){:target="_blank"} and [Z_GIS (Dept. of Geoinformatics, University of Salzburg)](https://www.plus.ac.at/geoinformatik/?lang=en){:target="_blank"}.
 
 ## Scope of GAMA Days 2022
 
