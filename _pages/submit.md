@@ -12,7 +12,7 @@ GAMA Days 2022 seek submissions of abstracts that
 
 Additionally, presenters can choose, whether they want to 
 
-* give a (live) **demo** of a GAMA feature or model that is presented in the conference (see [Open Fora](Gama-Days-2022/openfora)).
+* give a (live) **demo** of a GAMA feature or model that is presented in the conference (see [Open Fora](./openfora)).
 
 At least one of the authors of each submission is required to register, attend, and present at the conference. 
 
