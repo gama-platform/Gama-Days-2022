@@ -22,7 +22,7 @@ Submit an abstract with 500 words max. to present a model or a new GAMA feature.
 
 * Indicate in your abstract, whether you also want to reserve a virtual booth for a demo of your model in a (live or recorded) presentation at the Open Forum "Model exhibition" on Wednesday, 22. June.
 
-Abstracts need to be formatted according to the document style for Word or Latex: [download style templates](). Please make sure the abstract is formatted accordingly, before you start the submission. 
+Abstracts need to be formatted according to the document style for Word or Latex: [download style templates](./includes/Style-GamaDays2022.zip). Please make sure the abstract is formatted accordingly, before you start the submission. 
 
 Submit formatted abstracts with EasyChairm via this link: [https://easychair.org/my/conference?conf=gamadays2022](https://easychair.org/my/conference?conf=gamadays2022){:target="_blank"}
 
