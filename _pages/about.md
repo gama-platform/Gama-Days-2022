@@ -7,7 +7,7 @@ After last year's success, we want to continue bringing together GAMA users and 
 
 ## Scope of GAMA Days 2022
 
-The GAMA Days serve as a communication hub: it invites platform (or plug-in) developers to present their latest creations and it invites users to show how they use the platform. This exchange will be an important step towards a better structuring of the GAMA community.
+The GAMA Days serve as a communication hub for the growing GAMA community. It invites platform (or plug-in) developers to present their latest creations and it invites users to show how they use the platform. This exchange will be an important step towards a better structuring of the GAMA community.
 
 With the aim of allowing participation from across the world, we decided to organise the GAMA Days as an online event. A couple of dedicated tools and formats will facilitate communication and make sure to have a conference feeling that is similar to an on-site event:
 
