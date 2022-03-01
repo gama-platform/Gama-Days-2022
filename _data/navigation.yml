@@ -3,13 +3,13 @@ main:
   #  url: /posts/
   - title: "About"
     url: /about/
-  - title: "Submissions"
-    url: /submissions/
+  - title: "Submit"
+    url: /submit/
   - title: "Open fora"
     url: /openfora/
   - title: "Program"
     url: /program/
-  - title: "Registration"
-    url: /registration/
+  - title: "Participate"
+    url: /participate/
   - title: "Committees"
     url: /committees/
