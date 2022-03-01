@@ -11,10 +11,10 @@ The GAMA Days serve as a communication hub: it invites platform (or plug-in) dev
 
 With the aim of allowing participation from across the world, we decided to organise the GAMA Days as an online event. A couple of dedicated tools and formats will facilitate communication and make sure to have a conference feeling that is similar to an on-site event:
 
-* The Wonder.me meeting platform allows for natural social interaction. Walk around in the virtual conference room to talk with people nearby, listen to plenary talks, share your model or join a discussion.
-* Keynote talks will set the stage and break the ice. It will provide the food for thought to talk about in the breaks.
-* Virtual coffee breaks are a time dedicated for socialising.
-* Open Fora are designed in a way that users get into direct contact with developers, and vice versa.
+* The **Wonder.me** meeting platform allows for natural social interaction. Walk around in the virtual conference room to talk with people nearby, listen to plenary talks, share your model or join a discussion.
+* **Keynote talks** will set the stage and break the ice. It will provide the food for thought to talk about in the breaks.
+* **Virtual coffee breaks** are a time dedicated for socialising.
+* [**Open Fora**](/openfora) are designed in a way that users get into direct contact with developers, and vice versa.
 
 ## About GAMA
 
