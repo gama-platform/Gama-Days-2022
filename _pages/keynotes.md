@@ -5,7 +5,7 @@ title: "Keynotes"
 
 ## Keynote speakers
 
-### Alexis Drogul 
+### Alexis Drogoul 
 
 *GAMA 2.0*
 ![](./_includes/alexisdrogoul432-2.jpg)
