@@ -3,17 +3,21 @@ permalink: /about/
 title: "About"
 ---
 
-The GAMA Days are the user conference of the GAMA open-source project. The "GAMA Days 2022" will be held as an online conference from 22-24 June 2022. The event will be hosted by [UMMISCO](https://www.ummisco.fr/){:target="_blank"} and [Z_GIS (Dept. of Geoinformatics, University of Salzburg)](https://www.plus.ac.at/geoinformatik/?lang=en){:target="_blank"}.
+The GAMA Days are the user conference of the GAMA open-source project. The "GAMA Days 2022" will be held as an online conference from 22-24 June 2022. The event will be hosted by [UMMISCO](https://www.ummisco.fr/){:target="_blank"} and [Z_GIS (Dept. of Geoinformatics, University of Salzburg)](https://www.plus.ac.at/geoinformatik/?lang=en){:target="_blank"}. With the aim of allowing participation from across the world, we decided to organise the GAMA Days as a free and online event. Thus, the GAMA Days serve as a communication hub for the growing GAMA community. 
 
 ## Scope of GAMA Days 2022
 
-The GAMA Days serve as a communication hub for the growing GAMA community. It invites platform (or plug-in) developers to present their latest creations and it invites users to show how they use the platform. This exchange will be an important step towards a better structuring of the GAMA community.
+The GAMA Days 2022 invites platform (or plug-in) developers to present their latest creations and it invites users to show how they use the platform. This exchange will be an important step towards a better structuring of the GAMA community.
 
-With the aim of allowing participation from across the world, we decided to organise the GAMA Days as an online event. A couple of dedicated tools and formats will facilitate communication and make sure to have a conference feeling that is similar to an on-site event:
+## Interactiona and socialising
+
+A couple of dedicated tools and formats will facilitate communication and make sure to have a conference feeling that is social, similar to an on-site event:
 
 * The **Wonder.me** meeting platform allows for natural social interaction. Walk around in the virtual conference room to talk with people nearby, listen to plenary talks, share your model or join a discussion.
 * **Keynote talks** will set the stage and break the ice. It will provide the food for thought to talk about in the breaks.
 * **Virtual coffee breaks** are a time dedicated for socialising.
+* **Model demos** show to small groups of interested participants, how a model works. 
+* **Elevator pitches** take the challenge to get across, what your model does in just 3 minutes. 
 * [**Open Fora**](Gama-Days-2022/openfora) are designed in a way that users get into direct contact with developers, and vice versa.
 
 ## About GAMA
