@@ -24,7 +24,7 @@ Decide to submit either a presentation only, or a presentation with demonstratio
 
 Abstracts need to be formatted according to the document style for Word or Latex: [download style templates](https://gama-platform.org/Gama-Days-2022/Style-GamaDays2022.zip). Please make sure the abstract is formatted accordingly, before you start the submission. 
 
-Submit formatted abstracts with EasyChairm via this link: [https://easychair.org/my/conference?conf=gamadays2022](https://easychair.org/conferences/?conf=gamadays2022){:target="_blank"}
+Submit formatted abstracts with EasyChair via this link: [https://easychair.org/my/conference?conf=gamadays2022](https://easychair.org/conferences/?conf=gamadays2022){:target="_blank"}
 
 ## Peer-review and publication
 
