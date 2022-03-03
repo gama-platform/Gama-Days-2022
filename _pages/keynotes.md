@@ -11,14 +11,18 @@ title: "Keynotes"
 
 <img src="../_includes/alexisdrogoul432-2.jpg" width="200">
 
+bla bla bla
+
 ### Arthur
 
 *Participatory Modelling*
 
-![](../_includes/alexisdrogoul432-2.jpg)
+bla bla bla
 
 ### Kevin Chapuis 
 
 *COMOKIT*
 
-![Kevin Chapuis](../_includes/KevinChapuis.jpg){ width: 200px; }
+<img src="../_includes/KevinChapuis.jpg" width="200">
+
+bla bla bla
