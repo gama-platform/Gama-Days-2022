@@ -20,7 +20,7 @@ At least one of the authors of each submission is required to register, attend, 
 
 Submit an abstract with 500 words max. to present a model or a new GAMA feature . Deadline: 10. May, 2022. 
 
-Decide to submit either a presentation only, or a presentation with demonstration. Demonstrations are 10-minute demos of your model in a (live or recorded) session, right after your talk. 
+Decide to submit either a presentation only, or a presentation with demonstration. Demonstrations are 10-minute demos of your model in a (live or recorded) session, right after the talk. 
 
 Abstracts need to be formatted according to the document style for Word or Latex: [download style templates](https://gama-platform.org/Gama-Days-2022/Style-GamaDays2022.zip). Please make sure the abstract is formatted accordingly, before you start the submission. 
 
