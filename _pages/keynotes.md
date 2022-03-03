@@ -9,7 +9,7 @@ title: "Keynotes"
 
 *GAMA 2.0*
 
-![Alexis Drogoul](../_includes/alexisdrogoul432-2.jpg){ width: 200px; }
+<img src="../_includes/alexisdrogoul432-2.jpg" width="200">
 
 ### Arthur
 
