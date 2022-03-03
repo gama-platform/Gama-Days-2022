@@ -5,8 +5,14 @@ title: "Committees"
 
 ## Keynote speakers
 
-### Alexis Drogoul
+### Alexis Drogul 
 
-### sdfd
+*GAMA 2.0*
 
-### Kevin Chapuis
+### Arthur
+
+*Participatory Modelling*
+
+### Kevin Chapuis 
+
+*COMOKIT*
