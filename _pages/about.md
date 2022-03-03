@@ -19,7 +19,7 @@ A couple of dedicated tools and formats will facilitate communication and make s
 * [**Open Fora**](https://gama-platform.org/Gama-Days-2022/openfora) are designed in a way that users get into direct contact with developers, and vice versa.
 * **Model demos** show to small groups of interested participants, how a model works. 
 * **Elevator pitches** take the challenge to get across, what your model does in just 3 minutes. 
-* The **panel discussion** will scrutinise the role of data
+* The **panel discussion** will scrutinise the role of data in agent-based modelling
 
 ## About GAMA
 
