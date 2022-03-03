@@ -1,6 +1,6 @@
 ---
-permalink: /committees/
-title: "Committees"
+permalink: /keynotes/
+title: "Keynotes"
 ---
 
 ## Keynote speakers
