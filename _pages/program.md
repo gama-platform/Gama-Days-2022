@@ -15,7 +15,7 @@ All times are in Central European Summer Time (CEST)
 |11:40 - 12:00 | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) |
 |12:00 - 12:15 | *Virtual coffee break* <br /> with model demo booths | *Virtual coffee break* <br /> with model demo booths | *Virtual coffee break* <br /> with model demo booths |
 |12:15 - 12:35 | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) |
-|12:35 - 12:50 | *Virtual coffee break* and demos | *Virtual coffee break* and demos | *Virtual coffee break* and demos |
+|12:35 - 12:50 | *Virtual coffee break* <br /> with model demo booths | *Virtual coffee break* <br /> with model demo booths | *Virtual coffee break* <br /> with model demo booths |
 |12:50 - 13:10 | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) |
 |  |  |  |  |
 |  | *Lunch break* | *Lunch break* | *Lunch break* |
