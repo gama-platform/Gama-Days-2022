@@ -14,8 +14,8 @@ The GAMA Days 2022 invites platform (or plug-in) developers to present their lat
 A couple of dedicated tools and formats will facilitate communication and make sure to have a conference feeling that is social, similar to an on-site event:
 
 * The **Wonder.me** meeting platform allows for natural social interaction. Walk around in the virtual conference room to talk with people nearby, listen to plenary talks, share your model or join a discussion.
-* **Keynote talks** will set the stage and break the ice. It will provide the food for thought to talk about in the breaks.
-* **Virtual coffee breaks** are a time dedicated for socialising.
+* [**Keynote talks**](https://gama-platform.org/Gama-Days-2022/keynotes/) will set the stage and break the ice. It will provide the food for thought to talk about in the breaks.
+* **Virtual coffee breaks** are a time dedicated to socialising.
 * [**Open Fora**](https://gama-platform.org/Gama-Days-2022/openfora) are designed in a way that users get into direct contact with developers, and vice versa.
 * **Model demos** show to small groups of interested participants, how a model works. 
 * **Elevator pitches** take the challenge to get across, what your model does in just 3 minutes. 
