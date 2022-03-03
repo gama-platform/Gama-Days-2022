@@ -15,6 +15,10 @@ title: "Keynotes"
 
 *Participatory Modelling*
 
+![](../_includes/alexisdrogoul432-2.jpg)
+
 ### Kevin Chapuis 
 
 *COMOKIT*
+
+![Kevin Chapuis](../_includes/KevinChapuis.jpg)
