@@ -10,7 +10,7 @@ All times are in Central European Summer Time (CEST)
 |  | 22. June | 23. June | 24. June |
 |--------------------------|----------------------|--------------------------|----------------------|
 |10:50 - 11:00 | Welcome and introduction | Meet and chat | Meet and chat |
-|11:00 - 11:30| **GAMA 2.0** <br /> *Alexis Drogoul* | **Participatory modelling** <br /> *xxx* | **COMOKIT** <br /> *Kevin Chapuis* |
+|11:00 - 11:30| **GAMA 2.0** <br /> *Alexis Drogoul* | **XXX** <br /> *xxx* | **COMOKIT** <br /> *Kevin Chapuis* |
 |11:30 - 11:50 | *Virtual coffee break* | *Virtual coffee break* | *Virtual coffee break* |
 |11:50 - 12:10 | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) |
 |12:10 - 12:20 | *Virtual coffee break* | *Virtual coffee break* | *Virtual coffee break* |
