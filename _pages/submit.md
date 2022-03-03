@@ -30,7 +30,7 @@ Submit formatted abstracts with EasyChairm via this link: [https://easychair.org
 
 ## Paper submission to Special Issue
 
-...
+All accepted contributions will be invited to submit short or full papers to a special issue of a journal. The deadline for paper submission will be after the conference, around September 2022. More detailed information will follow.
 
 ## Important dates
 
