@@ -13,12 +13,6 @@ title: "Keynotes"
 
 bla bla bla
 
-### Arthur
-
-*Participatory Modelling*
-
-bla bla bla
-
 ### Kevin Chapuis 
 
 *COMOKIT*
