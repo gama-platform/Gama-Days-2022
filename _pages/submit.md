@@ -5,12 +5,12 @@ title: "Submit"
 
 Building on last year's success, the GAMA Days 2022 is the 2<sup>nd</sup> conference, where users and developers of the GAMA modeling and simulation platform will have an opportunity to meet, present their work, expose their difficulties, propose enhancements and, more generally, exchange and collaborate on exciting topics related to GAMA!
 
-GAMA Days 2022 seek submissions of abstracts that
+GAMA Days 2022 seek submissions of abstracts that:
 
 * presents a new **feature** for GAMA, or
 * presents a **model** that uses GAMA.
 
-Additionally, presenters can choose, whether they want to 
+Additionally, presenters can choose, whether they want to: 
 
 * give a (live) **demo** of a GAMA feature or model that is presented in the conference (see [Open Fora](https://gama-platform.org/Gama-Days-2022/openfora/)).
 
@@ -20,13 +20,13 @@ At least one of the authors of each submission is required to register, attend, 
 
 Submit an abstract with 500 words max. to present a model or a new GAMA feature. Deadline: 10. May, 2022. 
 
-* Indicate in your abstract, whether you also want to reserve a virtual booth for a demo of your model in a (live or recorded) presentation at the Open Forum "Model exhibition" on Wednesday, 22. June.
+Choose either a presentation only, or a presentation with demonstration. Demonstrations are 10-minute demos of your model in a (live or recorded) session, right after your talk. 
 
 Abstracts need to be formatted according to the document style for Word or Latex: [download style templates](https://gama-platform.org/Gama-Days-2022/Style-GamaDays2022.zip). Please make sure the abstract is formatted accordingly, before you start the submission. 
 
 Submit formatted abstracts with EasyChairm via this link: [https://easychair.org/my/conference?conf=gamadays2022](https://easychair.org/conferences/?conf=gamadays2022){:target="_blank"}
 
-<!-- All accepted abstracts will be published on the [HAL open archive](https://hal.archives-ouvertes.fr/).-->
+All accepted abstracts will be published on the [HAL open archive](https://hal.archives-ouvertes.fr/).
 
 ## Paper submission to Special Issue
 
