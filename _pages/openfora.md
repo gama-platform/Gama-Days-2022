@@ -5,9 +5,9 @@ title: "Open Fora"
 
 ## Elevator pitches - Wednesday, 14:00-14:45
 
-Users present their models on 1 slide in 3 minutes. This Open Forum is dedicated to short presentations in an online format, similar to poster sessions as they are known from on-site conferences. 
+Users present their models with 1 slide in 3 minutes. This Open Forum is dedicated to short presentations in an online format, similar to poster sessions as they are known from on-site conferences. 
 
-The "elevator pitch" derives from the situation, where an employee accidentally meets the company's director at the ground floor, waiting for the elevator. The employee wants to pitch an idea to the company, and this is the unique chance to have the director's full attention. He needs to get his message across in exactly 3 minutes, which is the time until the elevator arrives and goes up to the top floor. 
+Never heard about elevator pitches? Check out the [Wikipedia article](https://en.wikipedia.org/wiki/Elevator_pitch){:target="_blank"} for details.
 
 ## Meet the developers - Thursday, 14:00-14:45
 
