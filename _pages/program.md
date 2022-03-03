@@ -20,7 +20,7 @@ All times are in Central European Summer Time (CEST)
 |  |  |  |  |
 |  | *Lunch break* | *Lunch break* | *Lunch break* |
 |  |  |  |  |
-|14:00 - 14:45 | **Open Forum** <br /> Model exhibition | **Open Forum** <br /> Meet the developers | **Open Forum** <br /> Panel discussion |
+|14:00 - 14:45 | **Open Forum** <br /> Poster session | **Open Forum** <br /> Meet the developers | **Open Forum** <br /> Panel discussion |
 |14:45 - 15:05 | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) |
 |15:05 - 15:15 | *Virtual coffee break* | *Virtual coffee break* | *Virtual coffee break* |
 |15:15 - 15:25 | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) |
