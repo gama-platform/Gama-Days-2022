@@ -21,4 +21,26 @@ title: "Committees"
 
 ## Program committee
 
-To be determined
+
+    Carole Adam - UGA, LIG Laboratory
+    Diana F. Adamatti - Universidade Federal do Rio Grande, FURG
+    Conceição de Maria A Alves - Department of Civil and Environmental Engineering, University of Brasilia
+    Arnaud Banos - CNRS, IDEES Laboratory
+    Johan Barthélémy - University of Wollongong, SMART Infrastructure
+    Srirama Bhamidipati - University of Delft
+    Eric Daudé - CNRS, IDEES Laboratory
+    Julie Dugdale - UGA, LIG Laboratory
+    Arnaud Grignard - MIT, MediaLab
+    Myriam Grillot - INRAE, AGIR Laboratory
+    Quang Nghi Huynh - University of Can Tho, DREAM laboratory
+    Simone Z Leao - City Futures Research Centre, Faculty of Built Environment, University of New South Wales, Sydney
+    Nicolas Marilleau - IRD, UMMISCO Laboratory
+    Sébastien Rey-Coyrehourcq - University of Rouen, IDEES Laboratory
+    Franck Taillandier - INRAE, RECOVER Laboratory
+    Patrick Taillandier - INRAE, RECOVER Laboratory
+    Youcef Sklab - IRD, UMMISCO Laboratory
+    Olivier Therond - INRAE, LAE Laboratory
+    Rallou Thomopoulos - INRAE, IATE Laboratory
+    Jean Villerd - INRAE, LAE Laboratory
+
+
