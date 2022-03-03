@@ -9,7 +9,7 @@ title: "Keynotes"
 
 *GAMA 2.0*
 
-![Alexis Drogoul](../_includes/alexisdrogoul432-2.jpg)
+![Alexis Drogoul](../_includes/alexisdrogoul432-2.jpg){ width: 200px; }
 
 ### Arthur
 
@@ -21,4 +21,4 @@ title: "Keynotes"
 
 *COMOKIT*
 
-![Kevin Chapuis](../_includes/KevinChapuis.jpg)
+![Kevin Chapuis](../_includes/KevinChapuis.jpg){ width: 200px; }
