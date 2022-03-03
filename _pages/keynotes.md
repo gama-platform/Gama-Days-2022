@@ -8,6 +8,7 @@ title: "Committees"
 ### Alexis Drogul 
 
 *GAMA 2.0*
+![](./_includes/alexisdrogoul432-2.jpg)
 
 ### Arthur
 
