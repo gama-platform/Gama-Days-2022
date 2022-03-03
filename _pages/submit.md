@@ -30,7 +30,7 @@ Submit formatted abstracts with EasyChairm via this link: [https://easychair.org
 
 ## Paper submission to Special Issue
 
-All accepted abstracts are invited to submit a short or full paper to the Special Issue in the xxx Journal.
+...
 
 ## Important dates
 
