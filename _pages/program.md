@@ -11,9 +11,9 @@ All times are in Central European Summer Time (CEST)
 |--------------------------|----------------------|--------------------------|----------------------|
 |10:50 - 11:00 | Welcome and introduction | *Meet and chat* | *Meet and chat* |
 |11:00 - 11:30 | **GAMA 2.0** <br /> *Alexis Drogoul* | **XXX** <br /> *xxx* | **COMOKIT** <br /> *Kevin Chapuis* |
-|11:30 - 11:40 | *Virtual coffee break* and demos | *Virtual coffee break* and demos | *Virtual coffee break* and demos |
+|11:30 - 11:40 | *Virtual coffee break* | *Virtual coffee break* | *Virtual coffee break* |
 |11:40 - 12:00 | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) |
-|12:00 - 12:15 | *Virtual coffee break* and demos | *Virtual coffee break* and demos | *Virtual coffee break* and demos |
+|12:00 - 12:15 | *Virtual coffee break* <br /> with model demo booths | *Virtual coffee break* and demos | *Virtual coffee break* and demos |
 |12:15 - 12:35 | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) |
 |12:35 - 12:50 | *Virtual coffee break* and demos | *Virtual coffee break* and demos | *Virtual coffee break* and demos |
 |12:50 - 13:10 | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) |
