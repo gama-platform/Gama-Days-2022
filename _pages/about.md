@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-The GAMA Days are the user conference of the GAMA platform, open-source project. The "GAMA Days 2022" will be held as an online conference from 22-24 June 2022. The event will be hosted by [UMMISCO](https://www.ummisco.fr/){:target="_blank"} and [Z_GIS (Dept. of Geoinformatics, University of Salzburg)](https://www.plus.ac.at/geoinformatik/?lang=en){:target="_blank"}.
+The GAMA Days are the user conference of the GAMA open-source project. The "GAMA Days 2022" will be held as an online conference from 22-24 June 2022. The event will be hosted by [UMMISCO](https://www.ummisco.fr/){:target="_blank"} and [Z_GIS (Dept. of Geoinformatics, University of Salzburg)](https://www.plus.ac.at/geoinformatik/?lang=en){:target="_blank"}.
 
 ## Scope of GAMA Days 2022
 
