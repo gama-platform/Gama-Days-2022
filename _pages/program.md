@@ -23,16 +23,4 @@ All times are in Central European Summer Time (CEST)
 
 The final program will be available on this site by 5<sup>th</sup> June.
 
-## Keynotes
 
-### GAMA 2.0
-
-*Alexis Drogul*
-
-### Participatory Modelling
-
-*xxx*
-
-### COMOKIT
-
-*Kevin Chapuis*
