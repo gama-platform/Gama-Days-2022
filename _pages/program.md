@@ -10,7 +10,7 @@ All times are in Central European Summer Time (CEST)
 |  | 22. June | 23. June | 24. June |
 |--------------------------|----------------------|--------------------------|----------------------|
 |10:50 - 11:00 | Welcome and introduction | *Meet and chat* | *Meet and chat* |
-|11:00 - 11:30 | **Teaching with GAMA** <br /> *Gudrun Wallentin* | **XXX** <br /> *xxx* | **COMOKIT** <br /> *Kevin Chapuis* |
+|11:00 - 11:30 | **XXX** <br /> *xxx* |  **Teaching with GAMA** <br /> *Gudrun Wallentin*| **COMOKIT** <br /> *Kevin Chapuis* |
 |11:30 - 11:40 | *Virtual coffee break* | *Virtual coffee break* | *Virtual coffee break* |
 |11:40 - 12:00 | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) | models & features <br /> (parallel sessions) |
 |12:00 - 12:15 | *Virtual coffee break* <br /> with model demo booths | *Virtual coffee break* <br /> with model demo booths | *Virtual coffee break* <br /> with model demo booths |
