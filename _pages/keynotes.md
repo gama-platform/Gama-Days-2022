@@ -9,7 +9,7 @@ title: "Keynotes"
 
 *Teaching with GAMA*
 
-![Gudrun Wallentin](https://www.plus.ac.at/wp-content/uploads/2021/02/WallentinGudrun2_01.jpg){:width="200px";style="float: right }
+![Gudrun Wallentin](https://www.plus.ac.at/wp-content/uploads/2021/02/WallentinGudrun2_01.jpg){:width="200px", style="float: right" }
 
 Gudrun Wallentin is Assoc. Professor for Geoinformatics and Ecology at the Depatment of Geoinformatics – Z_GIS, University of Salzburg, Austria. She is the Director of the UNIGIS distance learning programme for GIScience & Systems and she leads the Spatial Simulation research group at Z_GIS. Her research interest is spatially-explicit simulation modelling of complex, ecological systems. She aims to advance spatial simulation modelling methods, as well as to use these models to gain a better understanding of the behaviour of animals and the functioning of ecological systems. She teaches simulation modelling to Geoinformatics and to Ecology students at Bachelor, Master and PhD level. In her keynote, Gudrun will share her experiences in teaching complexity science and simulation modelling with GAMA.
 
@@ -17,7 +17,7 @@ Gudrun Wallentin is Assoc. Professor for Geoinformatics and Ecology at the Depat
 
 *COMOKIT*
 
-![Kevin Chapuis](https://github.com/gama-platform/Gama-Days-2022/_includes/KevinChapuis.jpg){:width="200px"; style="float: right}
+![Kevin Chapuis](https://github.com/gama-platform/Gama-Days-2022/_includes/KevinChapuis.jpg){:width="200px", style="float: right"}
 
 Kevin Chapuis is post-doctoral researcher at IRD (Institute for the Research for Development). His goal is to imagine and design digital decision support tools based on artificial intelligence. His fields of application relate to various aspects of social life, the economic sphere (PhD thesis), urban (ANR Ecdesup and Escape Project) or ecological (HoanKiemAir Project). For his research, he has developed several modeling platforms (Agent-based modeling) and tools for managing and analyzing massive data (Project Gen*).
 In his talk, Kevin will present the COMOKIT (CoVid19 Modeling Kit), which is a modelling toolkit to simulate and compare different intervention scenarios for a better management of the COVID-19 epidemic.
