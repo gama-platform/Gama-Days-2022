@@ -22,7 +22,7 @@ Submit an abstract with 500 words max. to present a model or a new GAMA feature.
 
 Decide to submit either a presentation only, or a presentation with demonstration. Demonstrations are 10-minute demos of your model in a (live or recorded) session, right after the talk. 
 
-Abstracts need to be formatted according to the document style for Word or Latex: [download style templates](https://gama-platform.org/Gama-Days-2022/Style-GamaDays2022.zip). Please make sure the abstract is formatted accordingly, before you start the submission. 
+Abstracts need to be formatted according to the document style for Word or Latex: [download style templates](https://github.com/gama-platform/Gama-Days-2022/raw/master/_includes/Style-GamaDays2022.zip). Please make sure the abstract is formatted accordingly, before you start the submission. 
 
 Submit formatted abstracts with EasyChair via this link: [https://easychair.org/my/conference?conf=gamadays2022](https://easychair.org/conferences/?conf=gamadays2022){:target="_blank"}
 
@@ -40,4 +40,6 @@ All accepted contributions will further be invited to submit short or full paper
 - Notification of acceptance: 24. May, 2022
 - Conference: 22. - 24. June, 2022
 
-[Download CfP](https://github.com/gama-platform/Gama-Days-2022/raw/d14fd75c52198bf15ea007776f1d692c36f9573d/_includes/CfP_GAMA%20Days%202022.pdf)
+## Call for Papers
+
+Download the [Call for Papers](https://github.com/gama-platform/Gama-Days-2022/raw/d14fd75c52198bf15ea007776f1d692c36f9573d/_includes/CfP_GAMA%20Days%202022.pdf).
