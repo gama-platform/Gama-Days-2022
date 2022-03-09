@@ -17,4 +17,4 @@ Our recommendation: scan through the list of presented features and plan ahead, 
 
 ## Panel discussion - Friday, 14:00-14:45
 
-The last Open Forum will be dedicated to a panel discussion about models and data.
+The last Open Forum will be dedicated to a panel discussion. Further details will follow.
