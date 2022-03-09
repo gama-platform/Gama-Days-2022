@@ -18,7 +18,7 @@ At least one of the authors of each submission is required to register, attend, 
 
 ## Submit an abstract
 
-Submit an abstract with 500 words max. to present a model or a new GAMA feature . Deadline: 10. May, 2022. 
+Submit an abstract with 500 words max. to present a model or a new GAMA feature. Deadline: 10. May, 2022. 
 
 Decide to submit either a presentation only, or a presentation with demonstration. Demonstrations are 10-minute demos of your model in a (live or recorded) session, right after the talk. 
 
@@ -30,7 +30,7 @@ Submit formatted abstracts with EasyChair via this link: [https://easychair.org/
 
 The program committee will review all submissions and decide, whether a contribution is accepted for a talk, accepted for an elevator pitch, or rejected.
 
-All accepted abstracts will be published on the [HAL open archive](https://hal.archives-ouvertes.fr/).
+All accepted abstracts will be published on the [HAL open archive](https://hal.archives-ouvertes.fr/){:target="_blank"}.
 
 All accepted contributions will further be invited to submit short or full papers to a special issue of a journal. The deadline for paper submission will be after the conference, around September 2022. More detailed information will follow.
 
@@ -39,3 +39,5 @@ All accepted contributions will further be invited to submit short or full paper
 - Abstract submission deadline: 10. May, 2022
 - Notification of acceptance: 24. May, 2022
 - Conference: 22. - 24. June, 2022
+
+[Download CfP](https://gama-platform.org/Gama-Days-2022/CfP_GAMA_Days2022){:target="_blank"}
