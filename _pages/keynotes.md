@@ -17,7 +17,7 @@ Gudrun Wallentin is Assoc. Professor for Geoinformatics and Ecology at the Depat
 
 *COMOKIT*
 
-![Kevin Chapuis](https://github.com/gama-platform/Gama-Days-2022/_includes/KevinChapuis.jpg){:width="200px"}
+![Kevin Chapuis](https://ictlab.usth.edu.vn/wp-content/uploads/2018/03/DSC02619.jpg){:width="200px", style="float: right"}
 
 Kevin Chapuis is post-doctoral researcher at IRD (Institute for the Research for Development). His goal is to imagine and design digital decision support tools based on artificial intelligence. His fields of application relate to various aspects of social life, the economic sphere (PhD thesis), urban (ANR Ecdesup and Escape Project) or ecological (HoanKiemAir Project). For his research, he has developed several modeling platforms (Agent-based modeling) and tools for managing and analyzing massive data (Project Gen*).
 In his talk, Kevin will present the COMOKIT (CoVid19 Modeling Kit), which is a modelling toolkit to simulate and compare different intervention scenarios for a better management of the COVID-19 epidemic.
