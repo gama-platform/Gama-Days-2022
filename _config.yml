@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gama Days 2022
-subtitle: International Meeting of GAMA users
+subtitle: GAMA user meeting, 22-24, June 2022
 logo: "https://avatars.githubusercontent.com/u/1560449"
 email: gama-platform@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "GAMA Team"
   avatar : "https://avatars.githubusercontent.com/u/1560449"
-  bio    : "Meta-account used by the steering committee for the GAMA Days 2022"
+  bio    : "Steering committee for the GAMA Days 2022"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
