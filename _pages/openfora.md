@@ -15,6 +15,6 @@ GAMA developers will be available in booths, where they present cool, advanced o
 
 Our recommendation: scan through the list of presented features and plan ahead, where to go!
 
-## Panel discussion on "models and data" - Friday, 14:00-14:45
+## Panel discussion - Friday, 14:00-14:45
 
 The last Open Forum will be dedicated to a panel discussion about models and data.
