@@ -40,4 +40,4 @@ All accepted contributions will further be invited to submit short or full paper
 - Notification of acceptance: 24. May, 2022
 - Conference: 22. - 24. June, 2022
 
-[Download CfP](https://gama-platform.org/Gama-Days-2022/CfP_GAMA_Days2022){:target="_blank"}
+[Download CfP](https://github.com/gama-platform/Gama-Days-2022/raw/d14fd75c52198bf15ea007776f1d692c36f9573d/_includes/CfP_GAMA%20Days%202022.pdf)
