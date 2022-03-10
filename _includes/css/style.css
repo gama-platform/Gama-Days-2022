@@ -816,5 +816,12 @@ ul.social_icon li a:hover {
 /** Custom GAMA Days **/
 
 article {
-     font-size: .6875em;
+     font-size: .6875em !important;
+}
+
+footer {
+     font-size: 19px !important;
+}
+.greedy-nav .visible-links {
+     font-size: 16px !important;
 }
