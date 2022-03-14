@@ -25,7 +25,6 @@ title: "Committees"
     Carole Adam - UGA, LIG Laboratory
     Diana F. Adamatti - Universidade Federal do Rio Grande, FURG
     Conceição de Maria A Alves - Department of Civil and Environmental Engineering, University of Brasilia
-    Johan Barthélémy - University of Wollongong, SMART Infrastructure
     Srirama Bhamidipati - University of Delft
     Eric Daudé - CNRS, IDEES Laboratory
     Julie Dugdale - UGA, LIG Laboratory
