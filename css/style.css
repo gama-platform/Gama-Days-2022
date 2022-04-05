@@ -469,6 +469,7 @@ button {
 .projects {
      padding-top: 90px;
      position: relative;
+     z-index: -20;
 }
 
 .projects::after {
